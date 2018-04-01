@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rpranav22/dataviz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the above visualisation by scrolling over data points or switching from page to page and seeing specific analysis.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [click here](https://public.tableau.com/views/Sample1_318/Sheet2?:embed=y&:display_count=yes&publish=yes)
 
